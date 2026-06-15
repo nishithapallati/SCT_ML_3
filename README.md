@@ -44,7 +44,7 @@ train/
 
 This project uses the Dogs vs Cats dataset from Kaggle:
 
-https://www.kaggle.com/c/dogs-vs-cats/data
+https://www.kaggle.com/competitions/dogs-vs-cats/data
 
 Download the dataset and place it in:
 
